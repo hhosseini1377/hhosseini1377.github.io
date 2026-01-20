@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in Computer Science at [The University of Melbourne](https://www.unimelb.edu.au/), working under the supervision of A/Prof. Adel N. Toosi and Prof. Chris Leckie. My research focuses on **cost-efficient inference for large language models**, exploring scalable deployment strategies, latency-reliability trade-offs, and introspective models that can self-evaluate their output quality.
+I am a Ph.D. Candidate in Computer Science at
+[The University of Melbourne](https://www.unimelb.edu.au/), working under the
+supervision of A/Prof. Adel N. Toosi and Prof. Chris Leckie. My research
+focuses on **cost-efficient inference for large language models**, exploring
+scalable deployment strategies, latency-reliability trade-offs, and introspective
+models that can self-evaluate their output quality.
 
 My research interests include:
 - Large Language Models and efficient inference
@@ -37,6 +42,11 @@ My research interests include:
 - Systems for Machine Learning
 - Cyber-Physical Systems and real-time embedded systems
 
-I hold an M.Sc. in Computer Engineering from [Sharif University of Technology](https://www.sharif.edu/) (GPA: 19.41/20.0) and a B.Sc. in Computer Engineering from the same institution (GPA: 16.32/20.0). Before pursuing my Ph.D., I conducted research on dynamic task replication in cyber-physical systems, which resulted in a publication in IEEE Transactions on Emerging Topics in Computing.
+I hold an M.Sc. in Computer Engineering from
+[Sharif University of Technology](https://www.sharif.edu/) (GPA: 19.41/20.0) and
+a B.Sc. in Computer Engineering from the same institution (GPA: 16.32/20.0).
+Before pursuing my Ph.D., I conducted research on dynamic task replication in
+cyber-physical systems, which resulted in a publication in IEEE Transactions on
+Emerging Topics in Computing.
 
 Feel free to explore my [publications](/publications/) and [CV](/cv/) for more details.
