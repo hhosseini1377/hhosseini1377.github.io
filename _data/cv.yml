@@ -7,8 +7,6 @@
       value: Melbourne, Australia
     - name: Email
       value: hossein.hosseini@student.unimelb.edu.au
-    - name: Phone
-      value: +61 415 080 011
 
 - title: Education
   type: time_table

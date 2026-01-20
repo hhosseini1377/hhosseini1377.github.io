@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Melbourne, Australia</p>
     <p>hossein.hosseini@student.unimelb.edu.au</p>
-    <p>+61 415 080 011</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
